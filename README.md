@@ -1,1 +1,2 @@
-# ai-caption-seo-generator zxcvbnm
+# ai-caption-seo-generator 
+zxcvbn
