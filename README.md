@@ -1,2 +1,2 @@
 # ai-caption-seo-generator 
-zx
+z
